@@ -12,7 +12,7 @@ logging.basicConfig(stream=sys.stderr, level=logging.INFO)
 
 mcp = FastMCP("compiler-study")
 
-DEFAULT_VAULT = Path("/home/dhruv/Documents/Obsidian/CompilerVault")
+DEFAULT_VAULT = Path("/home/dhruv/Documents/compiler engineering")
 
 KEY_TOPICS = [
     "llvm",

@@ -47,11 +47,11 @@ Goal: evolve from "bag of tools" into a real MCP-backed learning interface.
 Expose stable, inspectable views of the learning system.
 
 Planned resources:
-- [ ] `vault://compiler/concepts`
-- [ ] `vault://compiler/gaps`
-- [ ] `vault://compiler/recent-notes`
-- [ ] `vault://project/alignment`
-- [ ] `vault://weekly-review/latest`
+- [x] `vault://compiler/concepts`
+- [x] `vault://compiler/gaps`
+- [x] `vault://compiler/recent-notes`
+- [x] `vault://project/alignment`
+- [x] `vault://weekly-review/latest`
 
 Why:
 - tools are good for actions
@@ -158,10 +158,10 @@ This is productization, not the immediate learning goal.
 
 ### Priority 1
 Implement resources:
-- [ ] concepts
-- [ ] gaps
-- [ ] recent notes digest
-- [ ] notes/project alignment summary
+- [x] concepts
+- [x] gaps
+- [x] recent notes digest
+- [x] notes/project alignment summary
 
 ### Priority 2
 Implement prompts:
